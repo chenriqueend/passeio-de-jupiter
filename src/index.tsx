@@ -7,7 +7,10 @@ import reportWebVitals from './reportWebVitals';
 const root = ReactDOM.createRoot(
   document.getElementById('root') as HTMLElement
 );
+<<<<<<< HEAD
 
+=======
+>>>>>>> landing-page
 root.render(
   <React.StrictMode>
     <App />
