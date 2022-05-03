@@ -23,7 +23,7 @@ function App() {
                  <a href='https://instagram.com/opasseiodejupiter?igshid=YmMyMTA2M2Y='>
                    <SocialIcon network="instagram" /></a></h3>
             </div>
-            {/* <ComicViewer pages={["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKL4ojtxjpc4G2uWRdvgBZ7bhlTRTUuVtGtM4iRwsf0w&s"]} /> */}
+            <ComicViewer pages={["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKL4ojtxjpc4G2uWRdvgBZ7bhlTRTUuVtGtM4iRwsf0w&s"]} />
           </div>
         </div>
       </div>
